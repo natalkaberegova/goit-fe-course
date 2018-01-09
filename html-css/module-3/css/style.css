@@ -1,0 +1,59 @@
+/*{
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}*/
+body{
+	background-image: url("../picture/sky.jpg");
+	background-repeat: no-repeat;
+}
+.wrapper{
+	width: 480px;
+	font-family: "Arial";
+	font-size: 12px;
+	line-height: 1.417;
+	color: #4C4F4F;
+	margin: 0 auto;
+	background: #fff;
+	padding: 60px 37px 44px 37px;
+}
+h2{
+	font-family: "Pathway Gothic One";
+	font-size: 25px;
+}
+h2,h3,h4,ul>li {
+	color: #1c5dad;
+}
+.plane{
+	height: 130px;
+	width: 480px;
+	margin-top: 33px;
+}
+h4 {
+	margin-top: 33px;
+}
+ p{
+	margin-top: 33px;
+		
+}
+.principles{
+	margin-top: 33px;
+}
+hr{
+	margin-bottom: 54px;
+	margin-top: 54px;
+}
+ol{
+	list-style-type: none;
+  width: 480px;
+  padding-left: 0px;
+}
+ul{
+	columns: 2;
+	list-style-type: none;
+	margin-top: 10px;
+	margin-left: 20px;
+  line-height: 2.5;
+  padding-left: 0px;
+}
+
