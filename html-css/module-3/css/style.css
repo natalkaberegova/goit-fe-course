@@ -1,11 +1,6 @@
-/*{
-	box-sizing: border-box;
-	margin: 0;
-	padding: 0;
-}*/
 body{
 	background-image: url("../picture/sky.jpg");
-	background-repeat: no-repeat;
+	background-size:100% ;
 }
 .wrapper{
 	width: 480px;
