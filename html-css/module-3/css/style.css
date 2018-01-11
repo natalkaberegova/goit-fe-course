@@ -24,14 +24,10 @@ h2,h3,h4,ul>li {
 	width: 480px;
 	margin-top: 33px;
 }
-h4 {
+/*h4,p {
 	margin-top: 33px;
-}
- p{
-	margin-top: 33px;
-		
-}
-.principles{
+}*/
+ .principles,h4,p{
 	margin-top: 33px;
 }
 hr{
