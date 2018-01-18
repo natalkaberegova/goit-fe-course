@@ -141,7 +141,7 @@ ul {
 
 .ulist::before {
 	content: url(../picture/longarrow1.png);
-	margin:6px 0 0 -23px;
+	margin: 6px 0 0 -23px;
 	position: absolute;
 }
 
