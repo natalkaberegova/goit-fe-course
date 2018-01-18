@@ -1,8 +1,8 @@
-body{
+body {
 	background-image: url("../picture/sky.jpg");
 	background-size:100% ;
 }
-.wrapper{
+.wrapper {
 	width: 480px;
 	font-family: "Arial";
 	font-size: 12px;
@@ -12,18 +12,19 @@ body{
 	background: #fff;
 	padding: 60px 37px 44px 37px;
 }
-h2{
+h2 {
 	font-family: "Pathway Gothic One";
 	font-size: 25px;
 }
 h2,h3,h4,ul>li {
 	color: #263555;
 }
-.plane{
+.plane {
 	height: 130px;
 	width: 480px;
 	margin-top: 33px;
 }
+<<<<<<< HEAD
 /*h4 {
 	margin-top: 33px;
 }
@@ -34,6 +35,11 @@ h2,h3,h4,ul>li {
 .principles,h4,p {
 	margin-top: 33px;
 }
+=======
+ .principles,h4,p {
+	margin-top: 33px;
+}
+>>>>>>> 76ab4adbc70eac276a501a3b31dd64cfc69596fb
 hr {
 	margin-bottom: 54px;
 	margin-top: 54px;
