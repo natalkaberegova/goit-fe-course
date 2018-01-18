@@ -7,7 +7,7 @@ body{
 	font-family: "Arial";
 	font-size: 12px;
 	line-height: 1.417;
-	color: #4C4F4F;
+	color: #4e5050;
 	margin: 0 auto;
 	background: #fff;
 	padding: 60px 37px 44px 37px;
@@ -17,38 +17,38 @@ h2{
 	font-size: 25px;
 }
 h2,h3,h4,ul>li {
-	color: #1c5dad;
+	color: #263555;
 }
 .plane{
 	height: 130px;
 	width: 480px;
 	margin-top: 33px;
 }
-h4 {
+/*h4 {
 	margin-top: 33px;
 }
  p{
 	margin-top: 33px;
 		
-}
-.principles{
+}*/
+.principles,h4,p {
 	margin-top: 33px;
 }
-hr{
+hr {
 	margin-bottom: 54px;
 	margin-top: 54px;
 }
-ol{
+ol {
 	list-style-type: none;
-  width: 480px;
-  padding-left: 0px;
+        width: 480px;
+        padding-left: 0px;
 }
-ul{
+ul {
 	columns: 2;
 	list-style-type: none;
 	margin-top: 10px;
 	margin-left: 20px;
-  line-height: 2.5;
-  padding-left: 0px;
+        line-height: 2.5;
+        padding-left: 0px;
 }
 
