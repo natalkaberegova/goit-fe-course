@@ -52,15 +52,6 @@ ul>li {
 	margin: 0 10px 10px 0;
 }
 
-
-/*h4 {
-	margin-top: 33px;
-}
- p{
-	margin-top: 33px;
-		
-}*/
-
 .principles,
 h4,
 p {
@@ -198,11 +189,3 @@ blockquote {
 	width: 210px;
 }
 
-span {
-	font-size: 16px;
-	color: #374865;
-}
-
-.autor p {
-	margin-top: 23px;
-}
